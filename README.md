@@ -1,5 +1,5 @@
 👋 About Me  
-Hello! I am **Aditya Pratama**, a 6th-semester Information Technology student at **Universitas Bina Sarana Informatika (UBSI)**, passionate about **web and mobile app development**.  
+Hello! I am **Aditya Pratama**, a 7th-semester Information Technology student at **Universitas Bina Sarana Informatika (UBSI)**, passionate about **web and mobile app development**.  
 I love building clean, functional, and scalable digital solutions — from frontend interfaces to backend systems.
 
 🎓 Currently pursuing a Bachelor’s degree in Information Technology at Universitas Bina Sarana Informatika (2022 – Present).  
