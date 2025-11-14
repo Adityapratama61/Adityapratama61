@@ -9,13 +9,6 @@ I love building clean, functional, and scalable digital solutions — from front
 
 ---
 
-## 🚀 Experience & Projects  
-- Secara aktif mengembangkan proyek nyata seperti **SIMAKSI App** (Flutter + Firestore) dan **Electricity Bill Payment System** (PHP + MySQL)  
-- Fokus meningkatkan kemampuan dalam **Full-Stack Development**, **API Integration**, dan **Database Management**  
-- Selalu bersemangat untuk berkolaborasi, berinovasi, dan melakukan continuous self-improvement
-
----
-
 ## 🛠️ Tech Stack & Skills  
 
 ### **Technical Skills**
