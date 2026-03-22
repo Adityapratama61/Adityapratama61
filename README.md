@@ -12,7 +12,7 @@ I love building clean, functional, and scalable digital solutions — from front
 ## 🛠️ Tech Stack & Skills  
 
 ### **Technical Skills**
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React JS, Tailwind CSS, Vite
 - **Backend:** PHP, REST API  
 - **Mobile Development:** Flutter, Dart  
 - **Database:** MySQL, Firestore  
