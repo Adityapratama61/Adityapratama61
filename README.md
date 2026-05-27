@@ -16,7 +16,7 @@ I love building clean, functional, and scalable digital solutions — from front
 - **Backend:** PHP, REST API  
 - **Mobile Development:** Flutter, Dart  
 - **Database:** MySQL, Firestore  
-- **Tools:** VS Code, Laragon, GitHub, Postman  
+- **Tools:** VS Code, Laragon, GitHub  
 
 ### **Soft Skills**
 - Problem Solving  
@@ -26,7 +26,7 @@ I love building clean, functional, and scalable digital solutions — from front
 
 ### **Languages**
 - **Bahasa Indonesia:** Native  
-- **English:** Intermediate (Currently preparing for IELTS 7.5)
+- **English:** Intermediate
 
 ---
 
