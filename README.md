@@ -1,24 +1,243 @@
-# 💫 About Me:
-I am an Information Technology graduate from Universitas Bina Sarana Informatika with a strong interest in Frontend Development and Web Development. I have hands-on experience building responsive and user-friendly web applications using HTML, CSS, JavaScript, React JS, Vite, and Tailwind CSS.<br>I also have experience with PHP, MySQL, REST APIs, and basic Laravel, giving me a good understanding of both frontend and backend development. During my internship as a Web Developer at Pusinfolahta Mabes TNI, I worked on web application development, UI implementation, database interaction, and responsive web interfaces.<br>I enjoy turning designs and ideas into functional web applications and continuously improving my skills through personal projects and hands-on learning. I am currently focused on growing as a Frontend Developer while continuing to explore modern web technologies and UI/UX design.
+<!-- ===================== HEADER ===================== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:232323,100:881212&height=250&section=header&text=Aditya%20Pratama&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Information%20Technology%20Student&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@prtmaa_a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/aditya-pratama-11b720300) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aditya Pratama) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adtyprtm61@gmail.com) 
+<h3 align="center">
+  Building interfaces that are simple, functional, and user-friendly.
+</h3>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Adityapratama61&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Adityapratama61&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Adityapratama61&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Adityapratama61&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/Adityapratama61">
+    <img src="https://img.shields.io/badge/GitHub-Adityapratama61-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Pratama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Adityapratama61&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+Hi! I'm **Aditya Pratama**, an Information Technology student at **Universitas Bina Sarana Informatika** with an interest in **Frontend Development, Web Development, and UI/UX**.
+
+I enjoy turning ideas and designs into functional web interfaces using modern web technologies. I'm currently focusing on improving my frontend development skills, especially with **React, JavaScript, Tailwind CSS, and responsive web development**.
+
+I also have experience working on web applications during my internship and personal projects, including authentication systems, dashboards, CRUD applications, REST APIs, and database integration.
+
+```javascript
+const aditya = {
+  education: "S1 Information Technology",
+  university: "Universitas Bina Sarana Informatika",
+  focus: ["Frontend Development", "Web Development", "UI/UX"],
+  currentlyLearning: ["React", "JavaScript", "Tailwind CSS"],
+  tools: ["VS Code", "Git", "GitHub", "Figma", "Postman"],
+  goal: "Become a professional Frontend Developer"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+</p>
+
+### Tools & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio
+
+A personal portfolio website built to showcase my projects, certificates, skills, and development activity.
+
+**Tech:** React · Vite · Tailwind CSS · PHP · MySQL · REST API
+
+* Responsive personal portfolio
+* Project & certificate management
+* Admin dashboard
+* Authentication
+* GitHub activity integration
+* WakaTime activity integration
+
+---
+
+### 📦 Nusantara Express
+
+A logistics and delivery management web application.
+
+**Tech:** React · Vite · Tailwind CSS · React Router · Axios · PHP Native · MySQL
+
+* Shipment tracking
+* Delivery information
+* Admin dashboard
+* REST API integration
+* Data management
+* Export functionality
+
+---
+
+### 🏔️ MB-Pass
+
+Mountain booking and permit management system for Mount Merbabu.
+
+**Tech:** PHP Native · MySQL · JavaScript · CSS · Laragon
+
+* User & admin roles
+* Mountain route selection
+* Quota management
+* Booking system
+* Payment proof upload
+* User dashboard
+* Admin management
+
+---
+
+### 🏢 PUSINFOLAHTA Web Application
+
+A web application developed during my internship at **PUSINFOLAHTA Mabes TNI** to digitize personnel transfer data that was previously handled manually.
+
+**Tech:** HTML · CSS · JavaScript · PHP · MySQL
+
+* Authentication
+* Personnel data management
+* Excel import
+* Dashboard statistics
+* Data visualization
+* Excel report/export
+
+---
+
+## 💼 Internship Experience
+
+### Web Developer — PUSINFOLAHTA Mabes TNI
+
+**Oct – Dec**
+
+During my internship, I worked as part of a development team to build a web-based application for digitizing personnel transfer data.
+
+My main responsibilities included:
+
+* Implementing UI designs into HTML, CSS, and JavaScript
+* Developing responsive interfaces
+* Integrating frontend with backend functionality
+* Working with database-driven applications
+* Implementing Excel data import/export
+* Building dashboard interfaces and data visualization
+
+This experience helped me understand how frontend development works within a real development team and how frontend and backend components are integrated.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityapratama61&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=881212&icon_color=881212&text_color=FFFFFF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityapratama61&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=881212&text_color=FFFFFF" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adityapratama61&theme=dark&hide_border=true&background=0D0D0D&ring=881212&fire=881212&currStreakLabel=FFFFFF" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityapratama61&bg_color=0D0D0D&color=FFFFFF&line=881212&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+```text
+React.js             ███████████████░░░░░  75%
+JavaScript           ██████████████░░░░░░  70%
+Tailwind CSS         ████████████████░░░░  80%
+UI/UX                █████████████░░░░░░░  65%
+PHP                  ████████████░░░░░░░░  60%
+Laravel              ██████████░░░░░░░░░░  50%
+```
+
+> Currently focusing on strengthening my fundamentals and building more real-world projects.
+
+---
+
+## 📚 What I'm Working On
+
+* ⚛️ Improving React fundamentals
+* 🎨 Building responsive interfaces with Tailwind CSS
+* 🧩 Learning better component architecture
+* 🔌 Understanding REST API integration
+* 🗄️ Improving database & backend fundamentals
+* 🚀 Building and improving my personal portfolio
+* 💻 Creating more real-world projects
+
+---
+
+## 📂 Repository Highlights
+
+| Project                | Description                          | Technology                        |
+| ---------------------- | ------------------------------------ | --------------------------------- |
+| **Portfolio**          | Personal portfolio & admin dashboard | React, Vite, Tailwind, PHP, MySQL |
+| **Nusantara Express**  | Logistics management system          | React, PHP, MySQL                 |
+| **MB-Pass**            | Mountain booking system              | PHP, MySQL                        |
+| **PUSINFOLAHTA**       | Personnel data management            | HTML, CSS, JS, PHP, MySQL         |
+| **Everland**           | Fashion e-commerce landing page      | React, Tailwind                   |
+| **Florist E-Commerce** | Flower shop web application          | PHP, CSS, JS, MySQL               |
+
+---
+
+## 🤝 Let's Connect
+
+I'm currently open to opportunities related to:
+
+* 💻 Frontend Development
+* 🌐 Web Development
+* 🎨 UI/UX
+* 🧑‍💻 IT Development
+* 🚀 Internship & Entry-Level Opportunities
+
+<p align="center">
+  <a href="https://github.com/Adityapratama61">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Keep learning, keep building, and keep improving."</i>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:881212,100:232323&height=120&section=footer"/>
+</p>
