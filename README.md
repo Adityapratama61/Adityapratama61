@@ -62,27 +62,12 @@ const aditya = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityapratama61&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=881212&icon_color=881212&text_color=FFFFFF" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityapratama61&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=881212&text_color=FFFFFF" height="170"/>
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Adityapratama61&theme=dark&hide_border=true&background=0D0D0D&ring=881212&fire=881212&currStreakLabel=FFFFFF" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityapratama61&bg_color=0D0D0D&color=FFFFFF&line=881212&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -102,19 +87,19 @@ Laravel              ██████████░░░░░░░░░�
 
 ---
 
-## 📚 What I'm Working On
+##  What I'm Working On
 
-* ⚛️ Improving React fundamentals
-* 🎨 Building responsive interfaces with Tailwind CSS
-* 🧩 Learning better component architecture
-* 🔌 Understanding REST API integration
-* 🗄️ Improving database & backend fundamentals
-* 🚀 Building and improving my personal portfolio
-* 💻 Creating more real-world projects
+*  Improving React fundamentals
+*  Building responsive interfaces with Tailwind CSS
+*  Learning better component architecture
+*  Understanding REST API integration
+*  Improving database & backend fundamentals
+*  Building and improving my personal portfolio
+*  Creating more real-world projects
 
 ---
 
-## 📂 Repository Highlights
+##  Repository Highlights
 
 | Project                | Description                          | Technology                        |
 | ---------------------- | ------------------------------------ | --------------------------------- |
@@ -127,15 +112,15 @@ Laravel              ██████████░░░░░░░░░�
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm currently open to opportunities related to:
 
-* 💻 Frontend Development
-* 🌐 Web Development
-* 🎨 UI/UX
-* 🧑‍💻 IT Development
-* 🚀 Internship & Entry-Level Opportunities
+*  Frontend Development
+*  Web Development
+*  UI/UX
+*  IT Development
+*  Internship & Entry-Level Opportunities
 
 <p align="center">
   <a href="https://github.com/Adityapratama61">
